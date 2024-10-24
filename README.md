@@ -18,6 +18,7 @@ To test the system, external code or unit tests must be written to interact with
 
 ## Requirements 📋
 - Java 8 or Higher
+- To ensure no errors on imports are displayed, it is necessary to configure the classpath to include the lib directory based on the IDE you are using.
 
 ## Authors ✍️
 - Diego Valladolid and Pablo Bueno
